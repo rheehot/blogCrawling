@@ -89,3 +89,7 @@ spider.py의 path = "webdriver가 설치된 위치" 를 변경해주면 동적 b
             Spider.queue.remove(page_url)
             Spider.crawled.add(page_url)
             Spider.update_files()
+
+################
+
+https://malchooni.name/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-eBest-Xing-api-%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%A1%B0%ED%9A%8C-NWS-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%B2%AD-%EA%B5%AC%ED%98%84-6
